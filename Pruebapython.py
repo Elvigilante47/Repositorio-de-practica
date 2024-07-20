@@ -1,1 +1,1 @@
-print("Editando para probar mas comandos")
+print("Editando para probar mas comandos, y lo modifico para continuar con main")
